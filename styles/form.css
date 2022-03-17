@@ -1,0 +1,36 @@
+html {
+    margin: auto;
+}
+
+.form-outline {
+    padding: 20px;
+    margin: auto;
+    height: 30%;
+    width: 440px;
+}
+
+h5,
+h6 {
+    margin-right: 10px;
+    padding: 6px;
+}
+
+button.btn {
+    margin-top: 5%;
+    height: 40px;
+    padding: 10px;
+}
+
+.form-control {
+    padding: 0.25em 0.6em;
+    border-radius: 0.3;
+    border: 1px solid #d3dfe4;
+    text-align: center;
+    box-shadow: 0 2px 3px rgba(0 0 0/ 0.15);
+    width: 30%;
+}
+
+::placeholder {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 200px;
+}

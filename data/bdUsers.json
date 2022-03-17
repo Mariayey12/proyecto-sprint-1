@@ -1,0 +1,64 @@
+{
+    "users": [{
+            "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1637622239/iconos/4_mjaxmb.png",
+            "name": "Isabella",
+            "email": "isa@gmail.com",
+            "description": "Lorem Ipsum",
+            "id": 1
+        },
+        {
+            "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1637622238/iconos/2_aywkbg.png",
+            "name": "Carlos",
+            "email": "carlos@gmail.com",
+            "description": "Lorem Ipsum",
+            "id": 2
+        },
+        {
+            "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1637622238/iconos/1_apyl7v.png",
+            "name": "Carla",
+            "email": "carla@gmail.com",
+            "description": "prueba",
+            "id": 3
+        },
+        {
+            "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1637622238/iconos/7_fxguvg.png",
+            "name": "David Betancur",
+            "email": "david@gmail.com",
+            "description": "prueba correo",
+            "id": 4
+        }
+    ],
+
+    "carrito-compra": [{
+        "icono-carrito": "https://res.cloudinary.com/academia-geek1/image/upload/v1647039471/producst-sport/iconos/icon-carrito_rk9bxm.svg",
+        "name-product": " S",
+        "imagen-product": "",
+        "precio-product": "",
+        "cantidad": "",
+        "id": 1
+    }, {
+        "icono-carrito": "https://res.cloudinary.com/academia-geek1/image/upload/v1647039471/producst-sport/iconos/icon-carrito_rk9bxm.svg",
+        "name-product": "sudadera Mujer",
+        "imagen-product": "https://res.cloudinary.com/academia-geek1/image/upload/v1647046135/producst-sport/productos/Frame_22_mkgc9y.png",
+        "precio-producto": "COP 97,562.96 - 156,100.74",
+        "cantidad": "5",
+        "id": 2
+    }, {
+        "icono-carrito": "https://res.cloudinary.com/academia-geek1/image/upload/v1647039471/producst-sport/iconos/icon-carrito_rk9bxm.svg",
+        "name-product": "",
+        "imagen-product": "https://res.cloudinary.com/academia-geek1/image/upload/v1647032448/producst-sport/Rectangle_4_h6vpzk.png",
+        "precio-producto": "COP 97,562.96 - 156,100.74",
+        "cantidad": "5",
+        "id": 3
+    }],
+
+    "imagenes": [{
+        "name": "Imagen-principal01",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043407/producst-sport/imagenes/imagen-principal-01_rsuvyt.png",
+        "id": 1
+    }, {
+        "name": "icono",
+        "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647456425/assets/producst/Icons_maps.png",
+        "id": 2
+    }]
+}

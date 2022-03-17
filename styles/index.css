@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+.list-group {
+    flex-direction: row;
+    margin-right: 3px;
+    background-color: white;
+    margin: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+li {
+    margin: 3px;
+    padding: 5px;
+    width: 10px;
+    height: 400px;
+    margin-left: 6px;
+    margin-top: 4%;
+}
+
+.card-body h5 {
+    color: rgb(93, 11, 114);
+    overflow: hidden;
+}
+
+html {
+    background-color: blue;
+    margin: auto;
+}
+
+.form-outline {
+    padding: 20px;
+    margin: auto;
+    height: 30%;
+    width: 440px;
+}
+
+h5,
+h6 {
+    margin-right: 10px;
+    padding: 6px;
+}
+
+button.btn {
+    margin-top: 5%;
+    height: 40px;
+    padding: 10px;
+}
+
+#cargando {
+    display: none;
+}

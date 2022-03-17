@@ -1,0 +1,95 @@
+{
+    "products": [{
+            "name": "Limon con semilla",
+            "description": "Lemon is a common name for three fragrant and acid-flavored citrus fruits , mainly used in the food industry.",
+            "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647399159/assets/producst/Product_lemon.png",
+            "price": "26,82/kg",
+            "descuento": "32% dto.",
+            "Seleccion": ["maduro", "verde", "para (5-7dias)"],
+            "id": 1
+        },
+        {
+            "name": "Tomate",
+            "description": "It is a species native to Mesoamerica , specifically the highlands of central and eastern Mexico , Guatemala and El Salvador",
+            "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647399201/assets/producst/image_2_Tomate.png",
+            "price": "21,79/kg",
+            "descuento": "32% dto.",
+            "Seleccion": ["maduro", "verde", "para (5-7dias)"],
+            "id": 2
+        },
+        {
+            "name": "Aguacate Hass",
+            "description": "Peso aproximado por pieza,puede variar de acuerdo al peso real. ",
+            "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647399195/assets/producst/image_3_aguacate-Hass.png",
+            "price": "56,8/kg",
+            "descuento": "18% dto.",
+            "Seleccion": ["maduro", "verde", "para (5-7dias)"],
+            "id": 3
+        },
+        {
+            "name": "Nopal limpio",
+            "description": "It is a fleshy hesperidium with a more or less thick and hardened skin, and its pulp is typically made up of eleven segments or skins filled with juice",
+            "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647399193/assets/producst/image_4_nopoli-Limpio.png",
+            "price": "25,8/kg",
+            "descuento": "13% dto.",
+            "Seleccion": ["maduro", "verde", "para (5-7dias)"],
+            "id": 4
+        },
+        {
+            "name": "Tomate verde sin cascara",
+            "description": "The apple is the edible fruit of the Malus domestica species , the common apple tree. It is a round shaped pomegranate fruit with a very sweet taste, depending on the variety.",
+            "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647399188/assets/producst/image_5_TomateScascar.png",
+            "price": "22,89/kg",
+            "descuento": "8% dto.",
+            "Seleccion": ["maduro", "verde", "para (5-7dias)"],
+            "id": 5
+        },
+        {
+            "name": "San Rafael Pechuga de Pavo",
+            "description": "The apple is the edible fruit of the Malus domestica species , the common apple tree. It is a round shaped pomegranate fruit with a very sweet taste, depending on the variety.",
+            "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647399174/assets/producst/Product_SanRafael-pechugadepavo.png",
+            "price": "$62.5",
+            "descuento": "",
+            "Seleccion": ["maduro", "verde", "para (5-7dias)"],
+            "id": 6
+        },
+        {
+            "name": "Bimbon pan Blanco grande",
+            "description": "The apple is the edible fruit of the Malus domestica species , the common apple tree. It is a round shaped pomegranate fruit with a very sweet taste, depending on the variety.",
+            "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647399167/assets/producst/Product_2BimbonpanBlancogrande.png",
+            "price": "$38,9",
+            "descuento": "",
+            "Seleccion": ["maduro", "verde", "para (5-7dias)"],
+            "id": 7
+        },
+        {
+            "name": "Mc cormic Mayonesa",
+            "description": "The apple is the edible fruit of the Malus domestica species , the common apple tree. It is a round shaped pomegranate fruit with a very sweet taste, depending on the variety.",
+            "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647399164/assets/producst/Product_3_McCormicMayonesa.png",
+            "price": "$48.5",
+            "descuento": "",
+            "Seleccion": ["maduro", "verde", "para (5-7dias)"],
+            "id": 8
+        },
+        {
+            "name": "Colgate pasta dental triple Familiar 2U",
+            "description": "The apple is the edible fruit of the Malus domestica species , the common apple tree. It is a round shaped pomegranate fruit with a very sweet taste, depending on the variety.",
+            "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647399186/assets/producst/image_14_ColgatepastadentaltripleFamiliar2U.png",
+            "price": "$35.5",
+            "descuento": "",
+            "Seleccion": ["maduro", "verde", "para (5-7dias)"],
+            "id": 9
+        },
+        {
+            "name": "Huevos San Juan",
+            "description": "The apple is the edible fruit of the Malus domestica species , the common apple tree. It is a round shaped pomegranate fruit with a very sweet taste, depending on the variety.",
+            "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647399183/assets/producst/image_15HuevosSanJuan.png",
+            "price": "$37.5",
+            "descuento": "",
+            "Seleccion": ["maduro", "verde", "para (5-7dias)"],
+            "id": 10
+        }
+
+    ]
+
+}
