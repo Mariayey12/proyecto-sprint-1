@@ -53,7 +53,7 @@
     }],
 
     "imagenes": [{
-        "name": "Imagen-principal01",
+        "name": "Imagen",
         "img": "https://res.cloudinary.com/academia-geek1/image/upload/v1647043407/producst-sport/imagenes/imagen-principal-01_rsuvyt.png",
         "id": 1
     }, {

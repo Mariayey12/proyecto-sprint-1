@@ -1,7 +1,7 @@
 import getData from "./getData.js";
 import { showData } from './showData.js'
 
-const endpoint = 'http://localhost:3001/products/';
+const endpoint = 'http://localhost:3000/products/';
 
 const element = document.querySelector('.list-group');
 
@@ -21,7 +21,7 @@ element.addEventListener('click', async(e) => {
         const lista = await getData(endpoint);
         const objeto = lista.find(list => list.id === Number(id))
         localStorage.setItem("Detail", JSON.stringify(objeto));
-        window.location.href = "./datail.html"
+        window.location.href = "html/datail.html"
     }
 
 })
